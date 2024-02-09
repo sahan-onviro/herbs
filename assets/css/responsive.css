@@ -194,8 +194,7 @@
 
     .h-banner .banner-info::before {
         width: 80%;
-        background: url(./../images/svg/banner-bg.svg) no-repeat 100% 0%;
-        background-size: 360%;
+        
     }
 
     .h-wellness .wellness-box {
@@ -423,11 +422,16 @@
 }
 
 @media only screen and (max-width: 575px) {
-    /* .h-banner .banner-info::before {
-        width: 100%;
-    } */
+    .h-banner .banner-info::before {
+        background: url(./../images/svg/banner-bg.svg) no-repeat 100% 0%;
+        background-size: 360%;
+    }
 
     .container {
         padding: 0 20px;
     }
+    .h-wellness
+.heading {
+    margin-bottom: 30px;
+}
 }

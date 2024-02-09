@@ -25,6 +25,7 @@
                     <div class="wellness-box">
                         <figure>
                             <img src="assets/images/svg/100.svg" alt="">
+                            
                         </figure>
                         <article>
                             <h4>Pure Nature, Proven Results:</h4>
