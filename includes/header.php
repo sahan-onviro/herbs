@@ -14,17 +14,19 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link
         href="https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
-        rel="stylesheet"> 
-    <link rel="stylesheet" href="assets/css/style.css">    
+        rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/responsive.css">
 </head>
 
 <body>
 
     <header>
-        <div class="h-bar">
+        <div class="h-bar d-none d-lg-block">
             <div class="container">
                 <ul class="list-inline d-flex flex-wrap ">
-                    <li class="list-inline-item ms-auto me-0 "><i class="fa-brands fa-whatsapp"></i> <a href="http://">(+977)
+                    <li class="list-inline-item ms-auto me-0 "><i class="fa-brands fa-whatsapp"></i> <a
+                            href="http://">(+977)
                             9800000000</a></li>
                     <li class="list-inline-item"><a href="#!"><i class="fa-brands fa-facebook-f"></i></a></li>
                     <li class="list-inline-item"><a href="#!"><i class="fa-brands fa-twitter"></i></a></li>
@@ -41,6 +43,10 @@
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <div class="logo-sm d-md-flex d-lg-none">
+                        <h3 class="logo-name">Herbs</h3>
+                        <div class="close"><i class="fa-solid fa-xmark"></i></div>
+                    </div>
                     <ul class="navbar-nav ms-4 me-auto ">
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
@@ -54,13 +60,14 @@
                         </li>
                     </ul>
                     <form class="d-flex">
-                        <input class="form-control flex-grow-1  me-2" type="search" placeholder="Search" aria-label="Search">
+                        <input class="form-control flex-grow-1  me-2" type="search" placeholder="Search"
+                            aria-label="Search">
                         <button class="btn" type="submit"><img src="assets/images/svg/search.svg" alt=""></button>
                     </form>
                     <ul class="navbar-nav">
 
                         <li class="nav-item">
-                            <a class="nav-link"  href="#">About us</a>
+                            <a class="nav-link" href="#">About us</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#">Blogs</a>
@@ -69,6 +76,20 @@
                             <a class="nav-link btn-green" href="#">Contact</a>
                         </li>
                     </ul>
+                    <div class="h-bar d-md-block d-lg-none">
+                        <div class="container">
+                            <ul class="list-inline d-flex flex-wrap ">
+                                <li class="list-inline-item ms-auto me-0 "><i class="fa-brands fa-whatsapp"></i> <a
+                                        href="http://">(+977)
+                                        9800000000</a></li>
+                                <li class="list-inline-item"><a href="#!"><i class="fa-brands fa-facebook-f"></i></a>
+                                </li>
+                                <li class="list-inline-item"><a href="#!"><i class="fa-brands fa-twitter"></i></a></li>
+                                <li class="list-inline-item"><a href="#!"><i class="fa-brands fa-instagram"></i></a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
                 </div>
             </div>
         </nav>

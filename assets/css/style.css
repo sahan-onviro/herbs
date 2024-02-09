@@ -539,6 +539,7 @@ h6 {}
         figure {
             /* height: 300px; */
             height: auto;
+            min-height: 373px;
             width: 280px;
             flex: 0 0 auto;
             margin-bottom: 0;
@@ -602,6 +603,11 @@ h6 {}
     }
 
     .blog-box {
+        &:hover{
+            h4{
+                color: var(--primary);
+            }
+        }
         figure {
             height: 300px;
             border-radius: 15px;
@@ -614,6 +620,8 @@ h6 {}
         }
 
         article {
+            color: var(--sub-heading);
+           
             h4 {
                 color: #1B1B1B;
                 font-size: 16px;
@@ -626,6 +634,7 @@ h6 {}
                 font-size: 14px;
                 text-align: justify;
                 margin-bottom: 4px;
+                line-height: 1.8;
             }
 
             ul {
@@ -718,3 +727,4 @@ footer {
     }
 
 }
+

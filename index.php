@@ -86,7 +86,7 @@
                     <h4 class="sub-heading">Top Selling</h4>
                 </div>
                 <div class="row">
-                    <div class="col-md-3">
+                    <div class="col-lg-3 col-md-6">
                         <div class="prod-box"><a href="#!">
                                 <figure>
                                     <img src="assets/images/products/pillow.jfif" alt="">
@@ -120,7 +120,7 @@
                             </a>
                         </div>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-lg-3 col-md-6">
                         <div class="prod-box"><a href="#!">
                                 <figure>
                                     <img src="assets/images/products/soap.jfif" alt="">
@@ -154,7 +154,7 @@
                             </a>
                         </div>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-lg-3 col-md-6">
                         <div class="prod-box"><a href="#!">
                                 <figure>
                                     <img src="assets/images/products/honey.jfif" alt="">
@@ -188,7 +188,7 @@
                             </a>
                         </div>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-lg-3 col-md-6">
                         <div class="prod-box"><a href="#!">
                                 <figure>
                                     <img src="assets/images/products/tea.png" alt="">
@@ -232,7 +232,7 @@
                     <a href="#!" class="btn-green">More Products</a>
                 </div>
                 <div class="row">
-                    <div class="col-md-3">
+                    <div class="col-lg-3 col-md-6">
                         <div class="prod-box"><a href="#!">
                                 <figure>
                                     <img src="assets/images/products/tea.png" alt="">
@@ -266,7 +266,7 @@
                             </a>
                         </div>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-lg-3 col-md-6">
                         <div class="prod-box"><a href="#!">
                                 <figure>
                                     <img src="assets/images/products/oil.png" alt="">
@@ -300,7 +300,7 @@
                             </a>
                         </div>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-lg-3 col-md-6">
                         <div class="prod-box"><a href="#!">
                                 <figure>
                                     <img src="assets/images/products/tea.png" alt="">
@@ -334,7 +334,7 @@
                             </a>
                         </div>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-lg-3 col-md-6">
                         <div class="prod-box"><a href="#!">
                                 <figure>
                                     <img src="assets/images/products/oil.png" alt="">
@@ -378,7 +378,7 @@
                     <a href="#!" class="btn-green">More Products</a>
                 </div>
                 <div class="row">
-                    <div class="col-md-3">
+                    <div class="col-lg-3 col-md-6">
                         <div class="prod-box"><a href="#!">
                                 <figure>
                                     <img src="assets/images/products/pillow.jfif" alt="">
@@ -412,7 +412,7 @@
                             </a>
                         </div>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-lg-3 col-md-6">
                         <div class="prod-box"><a href="#!">
                                 <figure>
                                     <img src="assets/images/products/pillow1.jfif" alt="">
@@ -446,7 +446,7 @@
                             </a>
                         </div>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-lg-3 col-md-6">
                         <div class="prod-box"><a href="#!">
                                 <figure>
                                     <img src="assets/images/products/pillow.jfif" alt="">
@@ -480,7 +480,7 @@
                             </a>
                         </div>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-lg-3 col-md-6">
                         <div class="prod-box"><a href="#!">
                                 <figure>
                                     <img src="assets/images/products/pillow1.jfif" alt="">
@@ -524,7 +524,7 @@
                     <a href="#!" class="btn-green">More Products</a>
                 </div>
                 <div class="row">
-                    <div class="col-md-3">
+                    <div class="col-lg-3 col-md-6">
                         <div class="prod-box"><a href="#!">
                                 <figure>
                                     <img src="assets/images/products/light.jfif" alt="">
@@ -558,7 +558,7 @@
                             </a>
                         </div>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-lg-3 col-md-6">
                         <div class="prod-box"><a href="#!">
                                 <figure>
                                     <img src="assets/images/products/soap.jfif" alt="">
@@ -592,7 +592,7 @@
                             </a>
                         </div>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-lg-3 col-md-6">
                         <div class="prod-box"><a href="#!">
                                 <figure>
                                     <img src="assets/images/products/light.jfif" alt="">
@@ -626,7 +626,7 @@
                             </a>
                         </div>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-lg-3 col-md-6">
                         <div class="prod-box"><a href="#!">
                                 <figure>
                                     <img src="assets/images/products/soap.jfif" alt="">
@@ -670,7 +670,7 @@
                     <a href="#!" class="btn-green">More Products</a>
                 </div>
                 <div class="row">
-                    <div class="col-md-3">
+                    <div class="col-lg-3 col-md-6">
                         <div class="prod-box"><a href="#!">
                                 <figure>
                                     <img src="assets/images/products/honey1.jfif" alt="">
@@ -704,7 +704,7 @@
                             </a>
                         </div>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-lg-3 col-md-6">
                         <div class="prod-box"><a href="#!">
                                 <figure>
                                     <img src="assets/images/products/honey2.jfif" alt="">
@@ -738,7 +738,7 @@
                             </a>
                         </div>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-lg-3 col-md-6">
                         <div class="prod-box"><a href="#!">
                                 <figure>
                                     <img src="assets/images/products/honey.jfif" alt="">
@@ -772,7 +772,7 @@
                             </a>
                         </div>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-lg-3 col-md-6">
                         <div class="prod-box"><a href="#!">
                                 <figure>
                                     <img src="assets/images/products/honey1.jfif" alt="">
@@ -813,7 +813,7 @@
     <section class="h-commitment">
         <div class="container">
             <div class="row justify-content-end ">
-                <div class="col-md-6">
+                <div class="col-lg-6 col-md-8">
                     <article>
                         <h2 class="heading-marker">Our Commitment to you</h2>
                         <p>Lorem ipsum dolor sit amet consectetur. Mi magna odio blandit in orci ut urna. Risus mattis
@@ -844,7 +844,7 @@
         <div class="container">
             <h2 class="heading-marker">What our Client Says about us</h2>
             <div class="row justify-content-center ">
-                <div class="col-md-10">
+                <div class="col-lg-10 col-md-12">
                     <div class="clients-slider">
                         <div>
                             <div class="client-box">
@@ -906,49 +906,59 @@
             <h3 class="sub-heading">Latest Blogs</h3>
             <div class="row">
                 <div class="col-md-4">
-                    <div class="blog-box">
-                        <figure><img src="assets/images/1.jfif" alt=""></figure>
-                        <article>
-                            <h4>Unveiling the Wonders of Herbal Tea</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                                ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                            </p>
-                            <ul class="list-inline ">
-                                <li class="list-inline-item ">John Doe</li>
-                                <li class="list-inline-item "><i class="fa-solid fa-circle"></i>22 Feb, 2024</li>
-                            </ul>
-                        </article>
-                    </div>
+
+                    <a href="#!">
+                        <div class="blog-box">
+                            <figure><img src="assets/images/1.jfif" alt=""></figure>
+                            <article>
+                                <h4>Unveiling the Wonders of Herbal Tea</h4>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                    incididunt
+                                    ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+                                </p>
+                                <ul class="list-inline ">
+                                    <li class="list-inline-item ">John Doe</li>
+                                    <li class="list-inline-item "><i class="fa-solid fa-circle"></i>22 Feb, 2024</li>
+                                </ul>
+                            </article>
+                        </div>
+                    </a>
                 </div>
                 <div class="col-md-4">
-                    <div class="blog-box">
-                        <figure><img src="assets/images/2.png" alt=""></figure>
-                        <article>
-                            <h4>Nourish and Revitalize: Magic of Herbal Oils</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                                ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                            </p>
-                            <ul class="list-inline ">
-                                <li class="list-inline-item ">John Doe</li>
-                                <li class="list-inline-item "><i class="fa-solid fa-circle"></i>22 Feb, 2024</li>
-                            </ul>
-                        </article>
-                    </div>
+                    <a href="#!">
+                        <div class="blog-box">
+                            <figure><img src="assets/images/2.png" alt=""></figure>
+                            <article>
+                                <h4>Nourish and Revitalize: Magic of Herbal Oils</h4>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                    incididunt
+                                    ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+                                </p>
+                                <ul class="list-inline ">
+                                    <li class="list-inline-item ">John Doe</li>
+                                    <li class="list-inline-item "><i class="fa-solid fa-circle"></i>22 Feb, 2024</li>
+                                </ul>
+                            </article>
+                        </div>
+                    </a>
                 </div>
                 <div class="col-md-4">
-                    <div class="blog-box">
-                        <figure><img src="assets/images/3.jfif" alt=""></figure>
-                        <article>
-                            <h4>Restorative Comfort</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                                ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                            </p>
-                            <ul class="list-inline ">
-                                <li class="list-inline-item ">John Doe</li>
-                                <li class="list-inline-item "><i class="fa-solid fa-circle"></i>22 Feb, 2024</li>
-                            </ul>
-                        </article>
-                    </div>
+                    <a href="#!">
+                        <div class="blog-box">
+                            <figure><img src="assets/images/3.jfif" alt=""></figure>
+                            <article>
+                                <h4>Restorative Comfort</h4>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                    incididunt
+                                    ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+                                </p>
+                                <ul class="list-inline ">
+                                    <li class="list-inline-item ">John Doe</li>
+                                    <li class="list-inline-item "><i class="fa-solid fa-circle"></i>22 Feb, 2024</li>
+                                </ul>
+                            </article>
+                        </div>
+                    </a>
                 </div>
             </div>
         </div>

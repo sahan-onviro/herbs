@@ -1,19 +1,19 @@
 <footer>
     <div class="container">
         <div class="row">
-            <div class="col">
+            <div class="col-md">
                 <figure class="footer-logo">
                     <img src="assets/images/logo.svg" alt="">
                 </figure>
             </div>
-            <div class="col">
+            <div class="col-md">
                 <ul class="bold">
                     <li><a href="#!">About Us</a></li>
                     <li><a href="#!">Blogs</a></li>
                     <li><a href="#!">Testimonials</a></li>
                 </ul>
             </div>
-            <div class="col">
+            <div class="col-md">
                 <div class="footer-head">
                     <h6>Categories</h6>
                 </div>
@@ -25,7 +25,7 @@
                     <li><a href="#!">High Altitude Honey</a></li>
                 </ul>
             </div>
-            <div class="col ">
+            <div class="col-md ">
                 <div class="footer-head">
                     <h6>Contact</h6>
                 </div>
@@ -35,9 +35,9 @@
                     <li><a href="#!">Contact @gmail.com</a></li>
                 </ul>
             </div>
-            <div class="col footer-social">
+            <div class="col-md footer-social">
                 <div class="footer-head">
-                    <h6>Contact</h6>
+                    <h6>Follow Us</h6>
                 </div>
                 <ul class="list-inline ">
                     <li class="list-inline-item"><a href="#!"><i class="fa-brands fa-facebook"></i></a></li>
