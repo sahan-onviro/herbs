@@ -1,6 +1,16 @@
+@media only screen and (max-width: 1399px) {
+    .navbar form {
+        max-width: 450px;
+    }
+
+    .prod-box figure {
+        height: 190px;
+    }
+}
+
 @media only screen and (max-width: 1199px) and (min-width: 992px) {
     .navbar form {
-        max-width: 350px;
+        max-width: 320px;
     }
 
     .h-banner .banner-info::before {
@@ -23,9 +33,7 @@
         padding: 14px;
     }
 
-    .h-products .prod-box figure {
-        height: 150px;
-    }
+
 
     .sub-heading {
         font-size: 26px;
@@ -66,6 +74,60 @@
     }
 }
 
+@media only screen and (max-width: 1199px) {
+    .h-categories .cate-box {
+        figure {
+            width: 80px;
+            height: 80px;
+            margin-bottom: 10px;
+        }
+
+        h4 {
+            font-size: 15px;
+        }
+    }
+
+    .h-offer figure {
+        height: 230px;
+    }
+
+    .product-page .product-details .product-slider-for figure {
+        height: 380px;
+    }
+
+    .product-page .product-details .product-slider-nav figure {
+        height: 80px;
+    }
+
+    .h-products .prod-box figure,
+    .product-page .product-related .prod-box figure {
+        height: 150px;
+    }
+
+    .blog-box figure {
+        height: 250px;
+    }
+
+    .contact-page .contact-info {
+        padding: 40px 20px;
+    }
+
+    .contact-page .contact-map {
+        height: 400px;
+    }
+
+    .contact-page .sub-heading {
+        font-size: 26px;
+        margin-bottom: 10px;
+    }
+
+    .cate-page .cate-result-wrapper .cate-result.result-list>.row>[class*="col-"] {
+        flex: 0 0 auto;
+        width: 100%;
+    }
+
+}
+
 @media only screen and (max-width: 991px) {
     body.height-fixed {
         overflow: hidden;
@@ -93,8 +155,13 @@
         }
     }
 
-    .navbar .navbar-brand {
-        height: 60px;
+    .navbar {
+        padding: 0;
+
+        .navbar-brand {
+            height: 80px;
+            padding: 0;
+        }
     }
 
     .navbar-collapse {
@@ -190,11 +257,13 @@
         }
     }
 
-    .navbar .navbar-nav .nav-item .nav-link.btn-green {margin-top: 10px;}
+    .navbar .navbar-nav .nav-item .nav-link.btn-green {
+        margin-top: 10px;
+    }
 
     .h-banner .banner-info::before {
         width: 80%;
-        
+
     }
 
     .h-wellness .wellness-box {
@@ -209,23 +278,28 @@
         font-size: 16px;
     }
 
-    .h-products {
-        padding-bottom: 40px;
-
-        .prod-box {
-            margin-bottom: 30px;
-        }
-    }
-
     .h-products .h-prod-selling,
     .h-products .h-prod-herbal,
     .h-products .h-prod-pillows,
     .h-products .h-prod-handicrafts {
-        margin-bottom: 10px;
+        margin-bottom: 40px;
     }
 
     .h-commitment p {
         font-size: 14px;
+    }
+
+    .h-commitment ul {
+        margin: 0;
+        /* padding-top: 0; */
+
+        li {
+            margin: 0;
+
+            &:not(:last-child) {
+                margin-bottom: 10px;
+            }
+        }
     }
 
     .h-commitment ul li::before {
@@ -250,8 +324,9 @@
     }
 
     .h-blogs .blog-box figure {
-        height: 180px;
+        height: 200px;
         margin-bottom: 10px;
+        border-top-right-radius: 40px;
     }
 
     .h-blogs .blog-box article ul {
@@ -259,8 +334,8 @@
     }
 
     footer .footer-logo {
-        width: 60px;
-        height: 60px;
+        width: 70px;
+        height: 70px;
     }
 
     footer ul.bold {
@@ -286,6 +361,108 @@
         .btn-wrapper .btn-green {
             padding: 10px 10px;
             font-size: 14px;
+        }
+    }
+
+    .h-offer figure {
+        height: 200px;
+    }
+
+    .cate-page .cate-result .prod-box figure {
+        /* height: 130px; */
+    }
+
+    .product-page .product-review .review-wrapper {
+        margin-bottom: 30px;
+    }
+
+    .about-page .about-wrapper .about-png {
+        display: none;
+    }
+
+    .about-page .about-wrapper::after,
+    .about-page .about-wrapper::before {
+        display: none;
+    }
+
+    .about-page .about-product .row>[class*="col-"] {
+        display: flex;
+        justify-content: space-between;
+        gap: 20px;
+    }
+
+    .about-page .about-product .product-box {
+        width: 50%;
+
+        &:not(:last-child) {
+            margin-bottom: 0;
+        }
+    }
+
+    .about-page .about-product .product-figure {
+        width: 100%;
+        padding: 20px 0;
+
+        figure {
+            height: 200px;
+        }
+    }
+
+    .blog-page .most-blog-wrapper .col-lg-4.col-md-12 {
+        display: flex;
+        gap: 25px;
+    }
+
+    .blog-details-page .blog-details {
+        margin-bottom: 30px;
+    }
+
+    .cate-page .cate-sidebar {
+        position: relative;
+        /* margin-bottom: 20px; */
+
+        .sub-heading {
+            position: relative;
+            padding-left: 20px;
+            text-align: left;
+
+            &::before {
+                position: absolute;
+                content: '\f078';
+                font-family: var(--fontawesome);
+                top: 0;
+                bottom: 0;
+                right: 20px;
+                display: flex;
+                align-self: center;
+                transform: rotateZ(-90deg);
+                transition: 0.3s all ease-in-out;
+            }
+
+            &.show {
+                &::before {
+                    transform: none;
+                }
+            }
+        }
+
+        .cate-warpper {
+            position: absolute;
+            top: 100%;
+            z-index: 2;
+            background: #ffffff;
+            box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.4);
+            width: 100%;
+            visibility: hidden;
+            opacity: 0;
+            pointer-events: none;
+            transition: 0.3s all ease;
+
+            &.show {
+                visibility: visible;
+                opacity: 1;
+                pointer-events: unset;
+            }
         }
     }
 }
@@ -419,6 +596,38 @@
     .heading {
         font-size: 30px;
     }
+
+    .h-categories .cate-box {
+        margin: 0 10px;
+
+        figure {
+            height: 60px;
+            width: 60px;
+
+        }
+
+        h4 {
+            font-size: 14px;
+        }
+    }
+
+    .blog-page .most-blog-wrapper .col-lg-4.col-md-12 {
+        display: block;
+    }
+
+    .blog-page .all-blog-wrapper .heading-wrapper {
+        display: block;
+    }
+
+    .cate-page .cate-result-wrapper .cate-view-fliter {
+
+        background: none;
+        padding: 10px 0 0 0;
+        gap: 10px;
+        flex-direction: column;
+        align-items: baseline;
+
+    }
 }
 
 @media only screen and (max-width: 575px) {
@@ -430,8 +639,117 @@
     .container {
         padding: 0 20px;
     }
-    .h-wellness
-.heading {
-    margin-bottom: 30px;
-}
+
+    .h-wellness .heading {
+        margin-bottom: 30px;
+    }
+
+    .about-page .about-company .heading-marker {
+        text-align: left;
+    }
+
+    .about-page .about-product .row>[class*="col-"] {
+        display: block;
+    }
+
+    .about-page .about-product .product-box {
+        width: 100%;
+
+        &:not(:last-child) {
+            margin-bottom: 30px;
+        }
+    }
+
+    .about-page .about-vision .vision-box {
+        figure {
+            height: 300px;
+        }
+
+        article {
+            padding: 30px;
+            font-size: 14px;
+        }
+    }
+
+    .about-page .about-vision .vision-box.bg-green,
+    .about-page .about-vision .vision-box.bg-yellow {
+        figure {
+            height: 500px;
+        }
+    }
+
+    .about-page .about-vision .about-vision-absolute .sub-heading {
+        font-size: 24px;
+    }
+
+    .newsletter form {
+        flex-direction: column;
+    }
+
+    .contact-page .contact-form,
+    .contact-page .contact-info {
+
+        padding: 20px;
+    }
+
+    .blog-page .all-blog-wrapper .pagination-wrapper {
+        padding: 10px 0;
+        flex-direction: column;
+        gap: 2px;
+        align-items: start;
+    }
+
+    .product-page .product-details .product-info-tabs .tab-nav {
+        display: block;
+        /* overflow: hidden; */
+    }
+
+    .product-page .product-details .product-info-tabs .nav-tabs .nav-item {
+        margin: 0 !important;
+        width: 48%;
+        flex: 0 0 48%;
+        font-size: 12px;
+
+        .nav-link {
+            padding: 10px 0;
+            font-size: 14px;
+            width: 100%;
+            border-radius: 10px;
+            border: 1px solid rgba(162, 191, 165, 1) !important;
+
+        }
+    }
+
+    .product-page .product-details .product-info-tabs .nav-tabs {
+        background: none;
+        border: 0;
+        margin-bottom: 10px;
+        gap: 10px;
+    }
+
+    .product-page .product-details .product-info-tabs .tab-content {
+        border-radius: 10px;
+
+        p {
+            flex-direction: column;
+        }
+    }
+
+    .product-page .product-review .review-box .heading-wrapper {
+        flex-direction: column;
+        align-items: baseline;
+    }
+
+    .blog-page .blog-box-full {
+        min-height: 400px;
+    }
+
+    .blog-details-page .top-blog .blog-box figure {
+        height: 120px;
+    }
+
+    .cate-page .cate-result-wrapper .cate-result.result-list .prod-box figure {
+        height: 100px;
+        width: 100px;
+    }
 }

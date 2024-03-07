@@ -1,9 +1,25 @@
+<section class="newsletter">
+    <div class="container">
+        <article>
+            <h2>Get Updates</h2>
+            <p>Sign up to Our Newsletter</p>
+        </article>
+        <form action="">
+            <div class="form-group">
+                <input type="text" class="form-control" placeholder="Your Email Address">
+            </div>
+            <div class="btn-wrapper">
+                <button type="submit" class="btn-green">View More</button>
+            </div>
+        </form>
+    </div>
+</section>
 <footer>
     <div class="container">
         <div class="row">
             <div class="col-md">
                 <figure class="footer-logo">
-                    <img src="assets/images/logo.svg" alt="">
+                    <img src="assets/images/logo.png" alt="">
                 </figure>
             </div>
             <div class="col-md">
@@ -56,6 +72,7 @@
 <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 <script src="assets/bootstrap/js/bootstrap.js"></script>
 <script src="assets/bootstrap/js/bootstrap.bundle.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.10.2/umd/popper.min.js"></script>
 <script src="assets/fontawesome/js/all.js"></script>
 <script src="assets/slick/slick/slick.min.js"></script>
 <script src="assets/js/custom.js"></script>

@@ -1,7 +1,7 @@
 <?php include './includes/header.php'; ?>
 
 <main>
-    <section class="h-banner">
+    <!-- <section class="h-banner">
         <div class="figure-wrapper">
             <figure>
                 <img src="assets/images/banner.jpg" alt="">
@@ -16,47 +16,111 @@
                 </article>
             </div>
         </div>
-    </section>
-    <section class="h-wellness">
+    </section> -->
+    <section class="h-categories">
         <div class="container">
-            <h2 class="heading">Your Journey to Wellness Starts Here</h2>
-            <div class="row">
-                <div class="col-md-4">
-                    <div class="wellness-box">
-                        <figure>
-                            <img src="assets/images/svg/100.svg" alt="">
-                            
-                        </figure>
-                        <article>
-                            <h4>Pure Nature, Proven Results:</h4>
-                            <p>Trust in our herbal remedies for natural wellness you can rely on.</p>
-                        </article>
+            <div class="cate-slider">
+                <div>
+                    <div class="cate-box">
+                        <a href="#!">
+                            <figure>
+                                <img src="assets/images/cate/1.jfif" alt="">
+                            </figure>
+                            <h4>Essential Oil</h4>
+                        </a>
                     </div>
                 </div>
-                <div class="col-md-4">
-                    <div class="wellness-box">
-                        <figure>
-                            <img src="assets/images/svg/sprout.svg" alt="">
-                        </figure>
-                        <article>
-                            <h4>From Seed to Supplement, Quality Guaranteed: </h4>
-                            <p>Experience the power of nature with our meticulously crafted herbal products.</p>
-                        </article>
+                <div>
+                    <div class="cate-box">
+                        <a href="#!">
+                            <figure>
+                                <img src="assets/images/cate/1.jfif" alt="">
+                            </figure>
+                            <h4>Essential Oil</h4>
+                        </a>
                     </div>
                 </div>
-                <div class="col-md-4">
-                    <div class="wellness-box">
-                        <figure>
-                            <img src="assets/images/svg/qa.svg" alt="">
-                        </figure>
-                        <article>
-                            <h4>Nature's Bounty, Your Assurance:</h4>
-                            <p>
-                                Embrace the goodness of herbal solutions backed by our commitment to purity and potency.
-                            </p>
-                        </article>
+                <div>
+                    <div class="cate-box">
+                        <a href="#!">
+                            <figure>
+                                <img src="assets/images/cate/1.jfif" alt="">
+                            </figure>
+                            <h4>Essential Oil</h4>
+                        </a>
                     </div>
                 </div>
+                <div>
+                    <div class="cate-box">
+                        <a href="#!">
+                            <figure>
+                                <img src="assets/images/cate/1.jfif" alt="">
+                            </figure>
+                            <h4>Essential Oil</h4>
+                        </a>
+                    </div>
+                </div>
+                <div>
+                    <div class="cate-box">
+                        <a href="#!">
+                            <figure>
+                                <img src="assets/images/cate/1.jfif" alt="">
+                            </figure>
+                            <h4>Essential Oil</h4>
+                        </a>
+                    </div>
+                </div>
+                <div>
+                    <div class="cate-box">
+                        <a href="#!">
+                            <figure>
+                                <img src="assets/images/cate/1.jfif" alt="">
+                            </figure>
+                            <h4>Essential Oil</h4>
+                        </a>
+                    </div>
+                </div>
+                <div>
+                    <div class="cate-box">
+                        <a href="#!">
+                            <figure>
+                                <img src="assets/images/cate/1.jfif" alt="">
+                            </figure>
+                            <h4>Essential Oil</h4>
+                        </a>
+                    </div>
+                </div>
+                <div>
+                    <div class="cate-box">
+                        <a href="#!">
+                            <figure>
+                                <img src="assets/images/cate/1.jfif" alt="">
+                            </figure>
+                            <h4>Essential Oil</h4>
+                        </a>
+                    </div>
+                </div>
+                <div>
+                    <div class="cate-box">
+                        <a href="#!">
+                            <figure>
+                                <img src="assets/images/cate/1.jfif" alt="">
+                            </figure>
+                            <h4>Essential Oil</h4>
+                        </a>
+                    </div>
+                </div>
+                <div>
+                    <div class="cate-box">
+                        <a href="#!">
+                            <figure>
+                                <img src="assets/images/cate/1.jfif" alt="">
+                            </figure>
+                            <h4>Essential Oil</h4>
+                        </a>
+                    </div>
+                </div>
+
             </div>
         </div>
     </section>
@@ -86,139 +150,176 @@
                 <div class="heading-wrapper">
                     <h4 class="sub-heading">Top Selling</h4>
                 </div>
-                <div class="row">
+                <div class="row gy-4">
                     <div class="col-lg-3 col-md-6">
-                        <div class="prod-box"><a href="#!">
-                                <figure>
-                                    <img src="assets/images/products/pillow.jfif" alt="">
-                                </figure>
-                                <div class="prod-rating">
-                                    <ul class="list-inline">
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <article>
-                                    <h4>Mila Pitta Tea - for the Fire constitution</h4>
-                                    <p>Mila Herbal Tea</p>
-                                </article>
-                                <div class="prod-price">
-                                    <p>$ 2.8</p>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6">
-                        <div class="prod-box"><a href="#!">
-                                <figure>
-                                    <img src="assets/images/products/soap.jfif" alt="">
-                                </figure>
-                                <div class="prod-rating">
-                                    <ul class="list-inline">
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <article>
-                                    <h4>Mila Pitta Tea - for the Fire constitution</h4>
-                                    <p>Mila Herbal Tea</p>
-                                </article>
-                                <div class="prod-price">
-                                    <p>$ 2.8</p>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6">
-                        <div class="prod-box"><a href="#!">
+                        <div class="prod-box">
+                            <a href="product.php">
                                 <figure>
                                     <img src="assets/images/products/honey.jfif" alt="">
                                 </figure>
-                                <div class="prod-rating">
-                                    <ul class="list-inline">
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                    </ul>
+                                <div class="prod-info">
+                                    <div class="prod-wrap">
+                                        <div class="prod-rating">
+                                            <ul class="list-inline">
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <article>
+                                            <h4>Juniper Oil</h4>
+                                            <p>Mila Herbal Tea</p>
+                                        </article>
+                                    </div>
+                                    <div class="prod-price">
+                                        <p>$ 2.8</p>
+                                    </div>
                                 </div>
-                                <article>
-                                    <h4>Mila Pitta Tea - for the Fire constitution</h4>
-                                    <p>Mila Herbal Tea</p>
-                                </article>
-                                <div class="prod-price">
-                                    <p>$ 2.8</p>
+                                <div class="popular-box">
+                                    <p>popular</p>
+                                </div>
+                            </a>
+                        </div>
+
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="prod-box">
+                            <a href="product.php">
+                                <figure>
+                                    <img src="assets/images/products/oil.png" alt="">
+                                </figure>
+                                <div class="prod-info">
+                                    <div class="prod-wrap">
+                                        <div class="prod-rating">
+                                            <ul class="list-inline">
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <article>
+                                            <h4>Juniper Oil</h4>
+                                            <p>Mila Herbal Tea</p>
+                                        </article>
+                                    </div>
+                                    <div class="prod-price">
+                                        <p>$ 2.8</p>
+                                    </div>
+                                </div>
+                                <div class="discount-box">
+                                    <p>30% Discount</p>
                                 </div>
                             </a>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <div class="prod-box"><a href="#!">
+                        <div class="prod-box">
+                            <a href="product.php">
                                 <figure>
-                                    <img src="assets/images/products/tea.png" alt="">
+                                    <img src="assets/images/products/1.png" alt="">
                                 </figure>
-                                <div class="prod-rating">
-                                    <ul class="list-inline">
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                    </ul>
+                                <div class="prod-info">
+                                    <div class="prod-wrap">
+                                        <div class="prod-rating">
+                                            <ul class="list-inline">
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <article>
+                                            <h4>Juniper Oil</h4>
+                                            <p>Mila Herbal Tea</p>
+                                        </article>
+                                    </div>
+                                    <div class="prod-price">
+                                        <p>$ 2.8</p>
+                                    </div>
                                 </div>
-                                <article>
-                                    <h4>Mila Pitta Tea - for the Fire constitution</h4>
-                                    <p>Mila Herbal Tea</p>
-                                </article>
-                                <div class="prod-price">
-                                    <p>$ 2.8</p>
+                                <div class="popular-box">
+                                    <p>popular</p>
+                                </div>
+                                <div class="discount-box">
+                                    <p>30% Discount</p>
+                                </div>
+
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="prod-box">
+                            <a href="product.php">
+                                <figure>
+                                    <img src="assets/images/products/soap.jfif" alt="">
+                                </figure>
+                                <div class="prod-info">
+                                    <div class="prod-wrap">
+                                        <div class="prod-rating">
+                                            <ul class="list-inline">
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <article>
+                                            <h4>Juniper Oil</h4>
+                                            <p>Mila Herbal Tea</p>
+                                        </article>
+                                    </div>
+                                    <div class="prod-price">
+                                        <p>$ 2.8</p>
+                                    </div>
+                                </div>
+                                <div class="popular-box">
+                                    <p>popular</p>
                                 </div>
                             </a>
                         </div>
@@ -232,139 +333,160 @@
                     <h4 class="sub-heading">Herbal Product</h4>
                     <a href="#!" class="btn-green">More Products</a>
                 </div>
-                <div class="row">
+                <div class="row gy-4">
                     <div class="col-lg-3 col-md-6">
-                        <div class="prod-box"><a href="#!">
+
+                        <div class="prod-box">
+                            <a href="product.php">
                                 <figure>
                                     <img src="assets/images/products/tea.png" alt="">
                                 </figure>
-                                <div class="prod-rating">
-                                    <ul class="list-inline">
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <article>
-                                    <h4>Juniper Oil</h4>
-                                    <p>Mila Herbal Tea</p>
-                                </article>
-                                <div class="prod-price">
-                                    <p>$ 2.8 </p>
+                                <div class="prod-info">
+                                    <div class="prod-wrap">
+                                        <div class="prod-rating">
+                                            <ul class="list-inline">
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <article>
+                                            <h4>Juniper Oil</h4>
+                                            <p>Mila Herbal Tea</p>
+                                        </article>
+                                    </div>
+                                    <div class="prod-price">
+                                        <p>$ 2.8</p>
+                                    </div>
                                 </div>
                             </a>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <div class="prod-box"><a href="#!">
+                        <div class="prod-box">
+                            <a href="product.php">
                                 <figure>
                                     <img src="assets/images/products/oil.png" alt="">
                                 </figure>
-                                <div class="prod-rating">
-                                    <ul class="list-inline">
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <article>
-                                    <h4>Olive Oil</h4>
-                                    <p>Mila Herbal oil</p>
-                                </article>
-                                <div class="prod-price">
-                                    <p>$ 200.8 </p>
+                                <div class="prod-info">
+                                    <div class="prod-wrap">
+                                        <div class="prod-rating">
+                                            <ul class="list-inline">
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <article>
+                                            <h4>Olive Oil</h4>
+                                            <p>Mila Herbal Tea</p>
+                                        </article>
+                                    </div>
+                                    <div class="prod-price">
+                                        <p>$ 2.8</p>
+                                    </div>
                                 </div>
                             </a>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <div class="prod-box"><a href="#!">
+                        <div class="prod-box">
+                            <a href="product.php">
                                 <figure>
                                     <img src="assets/images/products/tea.png" alt="">
                                 </figure>
-                                <div class="prod-rating">
-                                    <ul class="list-inline">
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <article>
-                                    <h4>Juniper Oil</h4>
-                                    <p>Mila Herbal Tea</p>
-                                </article>
-                                <div class="prod-price">
-                                    <p>$ 2.8 </p>
+                                <div class="prod-info">
+                                    <div class="prod-wrap">
+                                        <div class="prod-rating">
+                                            <ul class="list-inline">
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <article>
+                                            <h4>Juniper Oil</h4>
+                                            <p>Mila Herbal Tea</p>
+                                        </article>
+                                    </div>
+                                    <div class="prod-price">
+                                        <p>$ 2.8</p>
+                                    </div>
                                 </div>
                             </a>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <div class="prod-box"><a href="#!">
+                        <div class="prod-box">
+                            <a href="product.php">
                                 <figure>
                                     <img src="assets/images/products/oil.png" alt="">
                                 </figure>
-                                <div class="prod-rating">
-                                    <ul class="list-inline">
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <article>
-                                    <h4>Olive Oil</h4>
-                                    <p>Mila Herbal oil</p>
-                                </article>
-                                <div class="prod-price">
-                                    <p>$ 200.8 </p>
+                                <div class="prod-info">
+                                    <div class="prod-wrap">
+                                        <div class="prod-rating">
+                                            <ul class="list-inline">
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <article>
+                                            <h4>Olive Oil</h4>
+                                            <p>Mila Herbal Tea</p>
+                                        </article>
+                                    </div>
+                                    <div class="prod-price">
+                                        <p>$ 2.8</p>
+                                    </div>
                                 </div>
                             </a>
                         </div>
@@ -378,139 +500,161 @@
                     <h4 class="sub-heading">Pillows</h4>
                     <a href="#!" class="btn-green">More Products</a>
                 </div>
-                <div class="row">
+                <div class="row gy-4">
                     <div class="col-lg-3 col-md-6">
-                        <div class="prod-box"><a href="#!">
+                        <div class="prod-box">
+                            <a href="product.php">
                                 <figure>
                                     <img src="assets/images/products/pillow.jfif" alt="">
                                 </figure>
-                                <div class="prod-rating">
-                                    <ul class="list-inline">
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <article>
-                                    <h4>Mila Pitta Tea - for the Fire constitution</h4>
-                                    <p>Mila Herbal Tea</p>
-                                </article>
-                                <div class="prod-price">
-                                    <p>$ 20.5</p>
+                                <div class="prod-info">
+                                    <div class="prod-wrap">
+                                        <div class="prod-rating">
+                                            <ul class="list-inline">
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <article>
+                                            <h4>Mila Pitta Tea - for the Fire constitution</h4>
+                                            <p>Mila Herbal Tea</p>
+                                        </article>
+                                    </div>
+                                    <div class="prod-price">
+                                        <p>$ 2.8</p>
+                                    </div>
                                 </div>
                             </a>
                         </div>
+
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <div class="prod-box"><a href="#!">
+                        <div class="prod-box">
+                            <a href="product.php">
                                 <figure>
                                     <img src="assets/images/products/pillow1.jfif" alt="">
                                 </figure>
-                                <div class="prod-rating">
-                                    <ul class="list-inline">
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <article>
-                                    <h4>Mila Pitta Tea - for the Fire constitution</h4>
-                                    <p>Mila Herbal Tea</p>
-                                </article>
-                                <div class="prod-price">
-                                    <p>$ 20.5</p>
+                                <div class="prod-info">
+                                    <div class="prod-wrap">
+                                        <div class="prod-rating">
+                                            <ul class="list-inline">
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <article>
+                                            <h4>Mila Pitta Tea - for the Fire constitution</h4>
+                                            <p>Mila Herbal Tea</p>
+                                        </article>
+                                    </div>
+                                    <div class="prod-price">
+                                        <p>$ 2.8</p>
+                                    </div>
                                 </div>
                             </a>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <div class="prod-box"><a href="#!">
+                        <div class="prod-box">
+                            <a href="product.php">
                                 <figure>
                                     <img src="assets/images/products/pillow.jfif" alt="">
                                 </figure>
-                                <div class="prod-rating">
-                                    <ul class="list-inline">
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <article>
-                                    <h4>Mila Pitta Tea - for the Fire constitution</h4>
-                                    <p>Mila Herbal Tea</p>
-                                </article>
-                                <div class="prod-price">
-                                    <p>$ 20.5</p>
+                                <div class="prod-info">
+                                    <div class="prod-wrap">
+                                        <div class="prod-rating">
+                                            <ul class="list-inline">
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <article>
+                                            <h4>Mila Pitta Tea - for the Fire constitution</h4>
+                                            <p>Mila Herbal Tea</p>
+                                        </article>
+                                    </div>
+                                    <div class="prod-price">
+                                        <p>$ 2.8</p>
+                                    </div>
                                 </div>
                             </a>
                         </div>
+
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <div class="prod-box"><a href="#!">
+                        <div class="prod-box">
+                            <a href="product.php">
                                 <figure>
                                     <img src="assets/images/products/pillow1.jfif" alt="">
                                 </figure>
-                                <div class="prod-rating">
-                                    <ul class="list-inline">
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <article>
-                                    <h4>Mila Pitta Tea - for the Fire constitution</h4>
-                                    <p>Mila Herbal Tea</p>
-                                </article>
-                                <div class="prod-price">
-                                    <p>$ 20.5</p>
+                                <div class="prod-info">
+                                    <div class="prod-wrap">
+                                        <div class="prod-rating">
+                                            <ul class="list-inline">
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <article>
+                                            <h4>Mila Pitta Tea - for the Fire constitution</h4>
+                                            <p>Mila Herbal Tea</p>
+                                        </article>
+                                    </div>
+                                    <div class="prod-price">
+                                        <p>$ 2.8</p>
+                                    </div>
                                 </div>
                             </a>
                         </div>
@@ -524,139 +668,162 @@
                     <h4 class="sub-heading">Handicrafts</h4>
                     <a href="#!" class="btn-green">More Products</a>
                 </div>
-                <div class="row">
+                <div class="row gy-4">
                     <div class="col-lg-3 col-md-6">
-                        <div class="prod-box"><a href="#!">
+                        <div class="prod-box">
+                            <a href="product.php">
                                 <figure>
                                     <img src="assets/images/products/light.jfif" alt="">
                                 </figure>
-                                <div class="prod-rating">
-                                    <ul class="list-inline">
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <article>
-                                    <h4>Mila Pitta Tea - for the Fire constitution</h4>
-                                    <p>Mila Herbal Tea</p>
-                                </article>
-                                <div class="prod-price">
-                                    <p>$ 2.8 </p>
+                                <div class="prod-info">
+                                    <div class="prod-wrap">
+                                        <div class="prod-rating">
+                                            <ul class="list-inline">
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <article>
+                                            <h4>Mila Pitta Tea - for the Fire constitution</h4>
+                                            <p>Mila Herbal Tea</p>
+                                        </article>
+                                    </div>
+                                    <div class="prod-price">
+                                        <p>$ 2.8</p>
+                                    </div>
                                 </div>
                             </a>
                         </div>
+
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <div class="prod-box"><a href="#!">
+                        <div class="prod-box">
+                            <a href="product.php">
                                 <figure>
                                     <img src="assets/images/products/soap.jfif" alt="">
                                 </figure>
-                                <div class="prod-rating">
-                                    <ul class="list-inline">
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <article>
-                                    <h4>Mila Pitta Tea - for the Fire constitution</h4>
-                                    <p>Mila Herbal Tea</p>
-                                </article>
-                                <div class="prod-price">
-                                    <p>$ 2.8 </p>
+                                <div class="prod-info">
+                                    <div class="prod-wrap">
+                                        <div class="prod-rating">
+                                            <ul class="list-inline">
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <article>
+                                            <h4>Mila Pitta Tea - for the Fire constitution</h4>
+                                            <p>Mila Herbal Tea</p>
+                                        </article>
+                                    </div>
+                                    <div class="prod-price">
+                                        <p>$ 2.8</p>
+                                    </div>
                                 </div>
                             </a>
                         </div>
+
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <div class="prod-box"><a href="#!">
+                        <div class="prod-box">
+                            <a href="product.php">
                                 <figure>
                                     <img src="assets/images/products/light.jfif" alt="">
                                 </figure>
-                                <div class="prod-rating">
-                                    <ul class="list-inline">
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <article>
-                                    <h4>Mila Pitta Tea - for the Fire constitution</h4>
-                                    <p>Mila Herbal Tea</p>
-                                </article>
-                                <div class="prod-price">
-                                    <p>$ 2.8 </p>
+                                <div class="prod-info">
+                                    <div class="prod-wrap">
+                                        <div class="prod-rating">
+                                            <ul class="list-inline">
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <article>
+                                            <h4>Mila Pitta Tea - for the Fire constitution</h4>
+                                            <p>Mila Herbal Tea</p>
+                                        </article>
+                                    </div>
+                                    <div class="prod-price">
+                                        <p>$ 2.8</p>
+                                    </div>
                                 </div>
                             </a>
                         </div>
+
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <div class="prod-box"><a href="#!">
+                        <div class="prod-box">
+                            <a href="product.php">
                                 <figure>
                                     <img src="assets/images/products/soap.jfif" alt="">
                                 </figure>
-                                <div class="prod-rating">
-                                    <ul class="list-inline">
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <article>
-                                    <h4>Mila Pitta Tea - for the Fire constitution</h4>
-                                    <p>Mila Herbal Tea</p>
-                                </article>
-                                <div class="prod-price">
-                                    <p>$ 2.8 </p>
+                                <div class="prod-info">
+                                    <div class="prod-wrap">
+                                        <div class="prod-rating">
+                                            <ul class="list-inline">
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <article>
+                                            <h4>Mila Pitta Tea - for the Fire constitution</h4>
+                                            <p>Mila Herbal Tea</p>
+                                        </article>
+                                    </div>
+                                    <div class="prod-price">
+                                        <p>$ 2.8</p>
+                                    </div>
                                 </div>
                             </a>
                         </div>
@@ -672,137 +839,157 @@
                 </div>
                 <div class="row">
                     <div class="col-lg-3 col-md-6">
-                        <div class="prod-box"><a href="#!">
-                                <figure>
-                                    <img src="assets/images/products/honey1.jfif" alt="">
-                                </figure>
-                                <div class="prod-rating">
-                                    <ul class="list-inline">
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <article>
-                                    <h4>Mila Pitta Tea - for the Fire constitution</h4>
-                                    <p>Mila Herbal Tea</p>
-                                </article>
-                                <div class="prod-price">
-                                    <p>$ 2.8 </p>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6">
-                        <div class="prod-box"><a href="#!">
-                                <figure>
-                                    <img src="assets/images/products/honey2.jfif" alt="">
-                                </figure>
-                                <div class="prod-rating">
-                                    <ul class="list-inline">
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <article>
-                                    <h4>Mila Pitta Tea - for the Fire constitution</h4>
-                                    <p>Mila Herbal Tea</p>
-                                </article>
-                                <div class="prod-price">
-                                    <p>$ 2.8 </p>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6">
-                        <div class="prod-box"><a href="#!">
+                        <div class="prod-box">
+                            <a href="product.php">
                                 <figure>
                                     <img src="assets/images/products/honey.jfif" alt="">
                                 </figure>
-                                <div class="prod-rating">
-                                    <ul class="list-inline">
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <article>
-                                    <h4>Mila Pitta Tea - for the Fire constitution</h4>
-                                    <p>Mila Herbal Tea</p>
-                                </article>
-                                <div class="prod-price">
-                                    <p>$ 2.8 </p>
+                                <div class="prod-info">
+                                    <div class="prod-wrap">
+                                        <div class="prod-rating">
+                                            <ul class="list-inline">
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <article>
+                                            <h4>Mila Pitta Tea - for the Fire constitution</h4>
+                                            <p>Mila Herbal Tea</p>
+                                        </article>
+                                    </div>
+                                    <div class="prod-price">
+                                        <p>$ 2.8</p>
+                                    </div>
                                 </div>
                             </a>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <div class="prod-box"><a href="#!">
+                        <div class="prod-box">
+                            <a href="product.php">
                                 <figure>
                                     <img src="assets/images/products/honey1.jfif" alt="">
                                 </figure>
-                                <div class="prod-rating">
-                                    <ul class="list-inline">
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <i class="fa-solid fa-star"></i>
-                                        </li>
-                                    </ul>
+                                <div class="prod-info">
+                                    <div class="prod-wrap">
+                                        <div class="prod-rating">
+                                            <ul class="list-inline">
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <article>
+                                            <h4>Mila Pitta Tea - for the Fire constitution</h4>
+                                            <p>Mila Herbal Tea</p>
+                                        </article>
+                                    </div>
+                                    <div class="prod-price">
+                                        <p>$ 2.8</p>
+                                    </div>
                                 </div>
-                                <article>
-                                    <h4>Mila Pitta Tea - for the Fire constitution</h4>
-                                    <p>Mila Herbal Tea</p>
-                                </article>
-                                <div class="prod-price">
-                                    <p>$ 2.8 </p>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="prod-box">
+                            <a href="product.php">
+                                <figure>
+                                    <img src="assets/images/products/honey2.jfif" alt="">
+                                </figure>
+                                <div class="prod-info">
+                                    <div class="prod-wrap">
+                                        <div class="prod-rating">
+                                            <ul class="list-inline">
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <article>
+                                            <h4>Mila Pitta Tea - for the Fire constitution</h4>
+                                            <p>Mila Herbal Tea</p>
+                                        </article>
+                                    </div>
+                                    <div class="prod-price">
+                                        <p>$ 2.8</p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="prod-box">
+                            <a href="product.php">
+                                <figure>
+                                    <img src="assets/images/products/honey.jfif" alt="">
+                                </figure>
+                                <div class="prod-info">
+                                    <div class="prod-wrap">
+                                        <div class="prod-rating">
+                                            <ul class="list-inline">
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <i class="fa-solid fa-star"></i>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <article>
+                                            <h4>Mila Pitta Tea - for the Fire constitution</h4>
+                                            <p>Mila Herbal Tea</p>
+                                        </article>
+                                    </div>
+                                    <div class="prod-price">
+                                        <p>$ 2.8</p>
+                                    </div>
                                 </div>
                             </a>
                         </div>
@@ -814,7 +1001,7 @@
     <section class="h-commitment">
         <div class="container">
             <div class="row justify-content-end ">
-                <div class="col-lg-6 col-md-8">
+                <div class="col-lg-7 col-md-8">
                     <article>
                         <h2 class="heading-marker">Our Commitment to you</h2>
                         <p>Lorem ipsum dolor sit amet consectetur. Mi magna odio blandit in orci ut urna. Risus mattis
@@ -907,9 +1094,8 @@
             <h3 class="sub-heading">Latest Blogs</h3>
             <div class="row">
                 <div class="col-md-4">
-
-                    <a href="#!">
-                        <div class="blog-box">
+                    <div class="blog-box">
+                        <a href="#!">
                             <figure><img src="assets/images/1.jfif" alt=""></figure>
                             <article>
                                 <h4>Unveiling the Wonders of Herbal Tea</h4>
@@ -922,15 +1108,18 @@
                                     <li class="list-inline-item "><i class="fa-solid fa-circle"></i>22 Feb, 2024</li>
                                 </ul>
                             </article>
+                        </a>
+                        <div class="btn-wrapper">
+                            <a href="#!" class="btn-green">View More</a>
                         </div>
-                    </a>
+                    </div>
                 </div>
                 <div class="col-md-4">
-                    <a href="#!">
-                        <div class="blog-box">
-                            <figure><img src="assets/images/2.png" alt=""></figure>
+                    <div class="blog-box">
+                        <a href="#!">
+                            <figure><img src="assets/images/1.jfif" alt=""></figure>
                             <article>
-                                <h4>Nourish and Revitalize: Magic of Herbal Oils</h4>
+                                <h4>Unveiling the Wonders of Herbal Tea</h4>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
                                     incididunt
                                     ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
@@ -940,15 +1129,18 @@
                                     <li class="list-inline-item "><i class="fa-solid fa-circle"></i>22 Feb, 2024</li>
                                 </ul>
                             </article>
+                        </a>
+                        <div class="btn-wrapper">
+                            <a href="#!" class="btn-green">View More</a>
                         </div>
-                    </a>
+                    </div>
                 </div>
                 <div class="col-md-4">
-                    <a href="#!">
-                        <div class="blog-box">
-                            <figure><img src="assets/images/3.jfif" alt=""></figure>
+                    <div class="blog-box">
+                        <a href="#!">
+                            <figure><img src="assets/images/1.jfif" alt=""></figure>
                             <article>
-                                <h4>Restorative Comfort</h4>
+                                <h4>Unveiling the Wonders of Herbal Tea</h4>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
                                     incididunt
                                     ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
@@ -958,8 +1150,11 @@
                                     <li class="list-inline-item "><i class="fa-solid fa-circle"></i>22 Feb, 2024</li>
                                 </ul>
                             </article>
+                        </a>
+                        <div class="btn-wrapper">
+                            <a href="#!" class="btn-green">View More</a>
                         </div>
-                    </a>
+                    </div>
                 </div>
             </div>
         </div>
